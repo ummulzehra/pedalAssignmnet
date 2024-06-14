@@ -1,1 +1,1 @@
-To run this application locally type, nodemon app.js
+To run this application locally type in cmd, nodemon app.js
